@@ -2,6 +2,8 @@
 
 A Python script for downloading comics from yiffer.xyz.
 
+Did you know that donating to yiffer.xyz allows you to download comics easier than this? [You should consider it, it's a great site!](https://yiffer.xyz/donate)
+
 ## Installation
 
 Install [Python 3.7.2](https://www.python.org/downloads/) or higher. Make sure you add Python to your environmental variables (see image)
