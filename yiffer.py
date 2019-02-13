@@ -149,6 +149,7 @@ try:
 						f.write(content)
 						f.close()
 						log("success", f"Downloaded page {page_file}")
+						time.sleep(0.5)
 				
 				elapsed_time = time.time() - start_time
 				log("success", f"Finished operation in ~" + time.strftime("%H hours, %M minutes, %S seconds", time.gmtime(elapsed_time)))
