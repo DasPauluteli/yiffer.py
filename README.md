@@ -1,5 +1,9 @@
 # yiffer.py
 
+Introducing **Fur.NET**, a cross-platform CLI application for interacting with furry websites and services. yiffer.py's functionality is built into Fur.NET so if you are looking for a better alternative then [check it out!](https://github.com/depthbomb/Fur.NET)
+
+---
+
 A Python script for downloading comics from yiffer.xyz.
 
 Did you know that donating to yiffer.xyz allows you to download comics easier than this? [You should consider it, it's a great site!](https://yiffer.xyz/donate)
