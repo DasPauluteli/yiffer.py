@@ -18,4 +18,4 @@ After that, click the green **Clone or download** on this page and then click **
 
 ## Usage
 
-Simply run the program via command line OR run it with `run.bat` included. Once it is launched, you can download comics by using the command `download [Comic Name]` (without the brackets, obviously).
+Simply run the program via command line OR run it with `run.bat` included. Once it is launched, you can download comics by using the command `download [Comic URL]` (without the brackets, obviously).
