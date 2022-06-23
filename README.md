@@ -2,7 +2,7 @@
 
 A Python script for downloading comics from yiffer.xyz.
 
-Did you know that donating to yiffer.xyz allows you to download comics easier than this? [You should consider it, it's a great site!](https://yiffer.xyz/donate)
+Did you know that Yiffer.xyz is struggling economically? Read more or support them on Patreon. [You should consider it, it's a great site!](https://yiffer.xyz/support)
 
 ## Installation
 
